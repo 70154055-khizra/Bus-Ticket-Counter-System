@@ -107,7 +107,5 @@ Stores passenger reviews and ratings.
 ## 🚀 How to Run This Project
 
 1. Open PostgreSQL or any SQL editor  
-2. Create database:
-```sql
-CREATE DATABASE BusTicketCounterSystem;
+2. Run: CREATE DATABASE BusTicketCounterSystem;
 3. Run full SQL script provided in project
